@@ -1,0 +1,21 @@
+.transporte{
+	height: 28%;
+	width: 28%;
+	float: left;
+	margin-left: 1%;
+
+}
+.close{
+	margin-top: 10%;
+	color: white;
+	float: left;
+
+}
+
+.logoaena{
+	height: 4em;
+}
+
+.barra{
+	padding-left: 1%;
+}

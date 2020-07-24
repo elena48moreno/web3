@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0px auto;
+    text-align: center;
+    font-family: arial;
+}
+#principal{
+    margin: 0px auto;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: ;
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    font-size: 2vmin;
+}
+.s_secundaria{
+    width: 40vw;
+    height: 40vh;
+    float: left;
+}
+#s_uno{
+    background-color: #c6d8ec;
+    margin-bottom: 4vh;
+}
+#s_dos{
+    background-color: #cccccc;
+    margin-bottom: 4vh;
+    margin-left: 4vh;
+}
+#s_tres{
+    background-color: #c6d8ec;
+}
+#s_cuatro{
+    background-color: #cccccc;
+    margin-left: 4vh;
+}
+h3{
+    margin-bottom: 6vh;
+    margin-top: 4vh;
+    color: #339966;
+    font-weight: bold;
+}
+h4{
+    color: #cc5200;
+    margin-bottom: 1vh;
+}
+input{
+    height: 4vh;
+    width: 6vw;
+    font-size: 2vmin;
+    text-align: center;
+}
+.foto{
+    border: solid 0.3vh white;
+    width: 10vh;
+    height: 10vh;
+    opacity: 0.5;
+}
+.foto2{
+    border: solid 0.2vh orange;
+    width: 8vh;
+    height: 8vh;
+}
+#ciudad_seleccionada{
+    width:20vh;
+    height:20vh;
+}
+#ciudad_presentacion{
+    width:15vh;
+    height:15vh;
+}
